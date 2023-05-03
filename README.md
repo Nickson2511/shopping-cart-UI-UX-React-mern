@@ -1,10 +1,10 @@
 # E-commerce Shopping Cart Application
-Learn React & Redux From 0 to 100 in this course at https://codingwithbasir.com
+Learn React & and mern from my repositories, you can carry out code update, or reuse to implement whatever desires you may have at https://github.com/Nickson2511?tab=repositories
 
 ## Demo
-Open  [Shopping Cart Demo](https://basir.github.io/ecommerce-shopping-cart/)
+Open  [Shopping Cart Demo](https://github.com/Nickson2511/shopping-cart-UI-UX-React-mern)
 
-![Demo](https://basir.github.io/ecommerce-shopping-cart/demo.gif)
+![Demo](https://github.com/Nickson2511/shopping-cart-UI-UX-React-mern/demo.gif)
 
 ## Install
 ```
