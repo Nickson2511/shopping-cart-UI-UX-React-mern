@@ -8,7 +8,7 @@ Open  [Shopping Cart Demo](https://github.com/Nickson2511/shopping-cart-UI-UX-Re
 
 ## Install
 ```
-$ clone git@github.com:basir/ecommerce-shopping-cart.git 
+$ clone git@github https://github.com/Nickson2511/shopping-cart-UI-UX-React-mern.git 
 $ yarn
 ```
 
