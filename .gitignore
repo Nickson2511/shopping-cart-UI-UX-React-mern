@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# production build
+/build
+
+# logs
+*.log
+
+# text editor swap files
+*.swp
+
+# environment variables
+.env
